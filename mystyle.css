@@ -1,0 +1,80 @@
+header{
+    background-image: url(./img/OIP\ \(2\).jpg);
+    text-align: left;
+    padding: 15px;
+    display: flex;
+    flex-direction:row;
+    justify-content: space-around;
+    align-items: center;
+    text-decoration:none;
+    
+    
+}
+
+
+a {
+    color:darkorange;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 18px;
+    text-transform: uppercase;
+    border: 5px solid violet;
+    border-bottom: 2px solid violet;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+a:hover{
+    background-color:lightcyan;
+}
+
+body{
+    background-image: url();
+    background-repeat: no-repeat;
+    
+}
+
+nav{
+    text-align: right;
+    padding: 10px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+h1 {
+    text-align: center;
+    color:darkorange;
+
+}
+
+h2 {
+    text-align: left;
+    padding:20px;
+    font-size: 35px;
+    
+}
+
+li {
+    background-color: dimgray;
+}
+
+ol {
+    background-color: dimgray;
+}
+
+p {
+    font-size: 30px;
+    color:bisque;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 20px;
+    background-image: url(./img/OIP\ \(2\).jpg);
+    
+}
+
+footer {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 15px;
+    text-align: center;
+    
+}
+
